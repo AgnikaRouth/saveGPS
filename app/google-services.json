@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526595073214",
+    "project_id": "savegps-2263f",
+    "storage_bucket": "savegps-2263f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526595073214:android:61eb6faa40f94379382aef",
+        "android_client_info": {
+          "package_name": "com.supairvision.savegps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526595073214-m4hjq74tjltj0v384chqan002s749ruu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcd3PcBgNRNgCFfevL595ijFI5GE3QbHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526595073214-m4hjq74tjltj0v384chqan002s749ruu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
